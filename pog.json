@@ -1,0 +1,671 @@
+{
+    "id": "01JHZ2GDHP76C6BWJ2FZAC95QA",
+    "name": "Zatoichi Mt. Choc",
+    "manufacturer": "",
+    "description": "",
+    "tags": [
+        "65%"
+    ],
+    "controller": "pi-pico",
+    "keyboardType": "normal",
+    "wiringMethod": "matrix",
+    "diodeDirection": "COL2ROW",
+    "rows": 5,
+    "cols": 14,
+    "pins": 0,
+    "rowPins": [
+        "0",
+        "1",
+        "15",
+        "14",
+        "13"
+    ],
+    "colPins": [
+        "28",
+        "27",
+        "26",
+        "16",
+        "17",
+        "18",
+        "19",
+        "20",
+        "21",
+        "22",
+        "2",
+        "3",
+        "4",
+        "5"
+    ],
+    "directPins": [],
+    "encoders": [],
+    "layouts": [],
+    "keys": [
+        {
+            "x": 0,
+            "y": 0,
+            "idx": 0
+        },
+        {
+            "x": 1,
+            "y": 0,
+            "idx": 1
+        },
+        {
+            "x": 2,
+            "y": 0,
+            "idx": 2
+        },
+        {
+            "x": 3,
+            "y": 0,
+            "idx": 3
+        },
+        {
+            "x": 4,
+            "y": 0,
+            "idx": 4
+        },
+        {
+            "x": 5,
+            "y": 0,
+            "idx": 5
+        },
+        {
+            "x": 6,
+            "y": 0,
+            "idx": 6
+        },
+        {
+            "x": 7,
+            "y": 0,
+            "idx": 7
+        },
+        {
+            "x": 8,
+            "y": 0,
+            "idx": 8
+        },
+        {
+            "x": 9,
+            "y": 0,
+            "idx": 9
+        },
+        {
+            "x": 10,
+            "y": 0,
+            "idx": 10
+        },
+        {
+            "x": 11,
+            "y": 0,
+            "idx": 11
+        },
+        {
+            "x": 12,
+            "y": 0,
+            "idx": 12
+        },
+        {
+            "x": 13,
+            "y": 0,
+            "w": 1.5,
+            "idx": 13
+        },
+        {
+            "x": 14.75,
+            "y": 0,
+            "w": 2,
+            "h": 2.25
+        },
+        {
+            "x": 0,
+            "y": 1,
+            "w": 1.5,
+            "idx": 14
+        },
+        {
+            "x": 1.5,
+            "y": 1,
+            "idx": 15
+        },
+        {
+            "x": 2.5,
+            "y": 1,
+            "idx": 16
+        },
+        {
+            "x": 3.5,
+            "y": 1,
+            "idx": 17
+        },
+        {
+            "x": 4.5,
+            "y": 1,
+            "idx": 18
+        },
+        {
+            "x": 5.5,
+            "y": 1,
+            "idx": 19
+        },
+        {
+            "x": 6.5,
+            "y": 1,
+            "idx": 20
+        },
+        {
+            "x": 7.5,
+            "y": 1,
+            "idx": 21
+        },
+        {
+            "x": 8.5,
+            "y": 1,
+            "idx": 22
+        },
+        {
+            "x": 9.5,
+            "y": 1,
+            "idx": 23
+        },
+        {
+            "x": 10.5,
+            "y": 1,
+            "idx": 24
+        },
+        {
+            "x": 11.5,
+            "y": 1,
+            "idx": 25
+        },
+        {
+            "x": 12.5,
+            "y": 1,
+            "idx": 26
+        },
+        {
+            "x": 13.5,
+            "y": 1,
+            "idx": 27
+        },
+        {
+            "x": 0,
+            "y": 2,
+            "w": 1.75,
+            "idx": 28
+        },
+        {
+            "x": 1.75,
+            "y": 2,
+            "idx": 29
+        },
+        {
+            "x": 2.75,
+            "y": 2,
+            "idx": 30
+        },
+        {
+            "x": 3.75,
+            "y": 2,
+            "idx": 31
+        },
+        {
+            "x": 4.75,
+            "y": 2,
+            "idx": 32
+        },
+        {
+            "x": 5.75,
+            "y": 2,
+            "idx": 33
+        },
+        {
+            "x": 6.75,
+            "y": 2,
+            "idx": 34
+        },
+        {
+            "x": 7.75,
+            "y": 2,
+            "idx": 35
+        },
+        {
+            "x": 8.75,
+            "y": 2,
+            "idx": 36
+        },
+        {
+            "x": 9.75,
+            "y": 2,
+            "idx": 37
+        },
+        {
+            "x": 10.75,
+            "y": 2,
+            "idx": 38
+        },
+        {
+            "x": 11.75,
+            "y": 2,
+            "idx": 39
+        },
+        {
+            "x": 12.75,
+            "y": 2,
+            "w": 1.75,
+            "idx": 40
+        },
+        {
+            "x": 0,
+            "y": 3,
+            "w": 2.25,
+            "idx": 41
+        },
+        {
+            "x": 2.25,
+            "y": 3,
+            "idx": 42
+        },
+        {
+            "x": 3.25,
+            "y": 3,
+            "idx": 43
+        },
+        {
+            "x": 4.25,
+            "y": 3,
+            "idx": 44
+        },
+        {
+            "x": 5.25,
+            "y": 3,
+            "idx": 45
+        },
+        {
+            "x": 6.25,
+            "y": 3,
+            "idx": 46
+        },
+        {
+            "x": 7.25,
+            "y": 3,
+            "idx": 47
+        },
+        {
+            "x": 8.25,
+            "y": 3,
+            "idx": 48
+        },
+        {
+            "x": 9.25,
+            "y": 3,
+            "matrix": [
+                0,
+                0
+            ],
+            "idx": 49
+        },
+        {
+            "x": 10.25,
+            "y": 3,
+            "idx": 50
+        },
+        {
+            "x": 11.25,
+            "y": 3,
+            "idx": 51
+        },
+        {
+            "x": 12.25,
+            "y": 3,
+            "w": 2.25,
+            "idx": 52
+        },
+        {
+            "x": 14.75,
+            "y": 3,
+            "idx": 53
+        },
+        {
+            "x": 0,
+            "y": 4,
+            "w": 1.25,
+            "idx": 54
+        },
+        {
+            "x": 1.25,
+            "y": 4,
+            "w": 1.25,
+            "idx": 55
+        },
+        {
+            "x": 2.5,
+            "y": 4,
+            "w": 1.25,
+            "idx": 56
+        },
+        {
+            "x": 3.75,
+            "y": 4,
+            "w": 6.25
+        },
+        {
+            "x": 10,
+            "y": 4,
+            "w": 1.25,
+            "idx": 60
+        },
+        {
+            "x": 11.25,
+            "y": 4,
+            "w": 1.25,
+            "idx": 61
+        },
+        {
+            "x": 12.5,
+            "y": 4,
+            "idx": 62
+        },
+        {
+            "x": 13.75,
+            "y": 4,
+            "idx": 63
+        },
+        {
+            "x": 14.75,
+            "y": 4,
+            "idx": 64
+        },
+        {
+            "x": 15.75,
+            "y": 4,
+            "idx": 65
+        },
+        {
+            "x": 3.75,
+            "y": 5,
+            "w": 2,
+            "idx": 57
+        },
+        {
+            "x": 5.75,
+            "y": 5,
+            "w": 2.25,
+            "idx": 58
+        },
+        {
+            "x": 8,
+            "y": 5,
+            "w": 2,
+            "idx": 59
+        }
+    ],
+    "keymap": [
+        [
+            "KC.ESC",
+            "KC.N1",
+            "KC.N2",
+            "KC.N3",
+            "KC.N4",
+            "KC.N5",
+            "KC.N6",
+            "KC.N7",
+            "KC.N8",
+            "KC.N9",
+            "KC.N0",
+            "KC.MINS",
+            "KC.EQL",
+            "KC.BSPC",
+            "KC.TAB",
+            "KC.Q",
+            "KC.W",
+            "KC.E",
+            "KC.R",
+            "KC.T",
+            "KC.Y",
+            "KC.U",
+            "KC.I",
+            "KC.O",
+            "KC.P",
+            "KC.LBRC",
+            "KC.RBRC",
+            "KC.BSLS",
+            "KC.CAPS",
+            "KC.A",
+            "KC.S",
+            "KC.D",
+            "KC.F",
+            "KC.G",
+            "KC.H",
+            "KC.J",
+            "KC.K",
+            "KC.L",
+            "KC.SCLN",
+            "KC.QUOT",
+            "KC.ENT",
+            "KC.LSFT",
+            "KC.Z",
+            "KC.X",
+            "KC.C",
+            "KC.V",
+            "KC.B",
+            "KC.N",
+            "KC.M",
+            "KC.COMM",
+            "KC.DOT",
+            "KC.SLSH",
+            "KC.RSFT",
+            "KC.UP",
+            "KC.LCTL",
+            "KC.LGUI",
+            "KC.LALT",
+            "KC.SPC",
+            "KC.SPC",
+            "KC.RCTL",
+            "KC.MO(1)",
+            "KC.PGDOWN",
+            "KC.PGUP",
+            "KC.LEFT",
+            "KC.DOWN",
+            "KC.RIGHT",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS"
+        ],
+        [
+            "KC.GRV",
+            "KC.F1",
+            "KC.F2",
+            "KC.F3",
+            "KC.F4",
+            "KC.F5",
+            "KC.F6",
+            "KC.F7",
+            "KC.F8",
+            "KC.F9",
+            "KC.F10",
+            "KC.F11",
+            "KC.F12",
+            "KC.DEL",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.END",
+            "KC.HOME",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS",
+            "KC.TRNS"
+        ]
+    ],
+    "encoderKeymap": [],
+    "layers": [
+        {
+            "name": "Primary",
+            "color": "#0ca508"
+        },
+        {
+            "name": "Layer 1",
+            "color": "#259eb9"
+        }
+    ],
+    "split": false,
+    "splitPinA": "",
+    "splitPinB": "",
+    "splitSide": "left",
+    "vbusPin": "VBUS_SENSE",
+    "splitUsePio": true,
+    "splitFlip": false,
+    "spitUartFlip": false,
+    "coordMap": [
+        [
+            "000",
+            "001",
+            "002",
+            "003",
+            "004",
+            "005",
+            "006",
+            "007",
+            "008",
+            "009",
+            "010",
+            "011",
+            "012",
+            "013"
+        ],
+        [
+            "014",
+            "015",
+            "016",
+            "017",
+            "018",
+            "019",
+            "020",
+            "021",
+            "022",
+            "023",
+            "024",
+            "025",
+            "026",
+            "027"
+        ],
+        [
+            "028",
+            "029",
+            "030",
+            "031",
+            "032",
+            "033",
+            "034",
+            "035",
+            "036",
+            "037",
+            "038",
+            "039",
+            "040"
+        ],
+        [
+            "042",
+            "043",
+            "044",
+            "045",
+            "046",
+            "047",
+            "048",
+            "049",
+            "050",
+            "051",
+            "052",
+            "053",
+            "054"
+        ],
+        [
+            "056",
+            "057",
+            "058",
+            "060",
+            "061",
+            "062",
+            "064",
+            "065",
+            "066",
+            "067",
+            "068",
+            "069"
+        ]
+    ],
+    "pinPrefix": "gp",
+    "coordMapSetup": false,
+    "rgbPin": "",
+    "rgbNumLeds": 0,
+    "rgbOptions": {
+        "animationMode": 0,
+        "hueDefault": 0,
+        "satDefault": 255,
+        "valDefault": 255,
+        "animationSpeed": 1,
+        "breatheCenter": 1,
+        "knightEffectLength": 3
+    },
+    "kbFeatures": [
+        "basic",
+        "serial",
+        "oneshot",
+        "tapdance",
+        "holdtap",
+        "mousekeys",
+        "combos",
+        "macros"
+    ],
+    "flashingMode": "automatic",
+    "lastEdited": "2025-01-19 17:36"
+}
